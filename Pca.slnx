@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Pca.App/Pca.App.csproj" />
+    <Project Path="src/Pca.Core/Pca.Core.csproj" />
+    <Project Path="src/Pca.Infrastructure/Pca.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Pca.Tests/Pca.Tests.csproj" />
+  </Folder>
+</Solution>
